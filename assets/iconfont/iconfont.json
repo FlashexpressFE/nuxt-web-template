@@ -1,0 +1,16 @@
+{
+  "id": "2756829",
+  "name": "flash-hr-website-pc",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4447515",
+      "name": "语言",
+      "font_class": "yuyan",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}

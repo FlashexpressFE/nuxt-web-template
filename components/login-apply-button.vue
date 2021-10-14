@@ -1,0 +1,70 @@
+<template>
+  <div class="denglu-apply">
+    <!-- <el-button class="register" type="primary" @click="register">{{ $ft("111") }}</el-button> -->
+    <p class="phone">
+      <a href="tel:063-940-2837">
+        <svg
+          t="1618799984854"
+          class="icon"
+          viewBox="0 0 1024 1024"
+          version="1.1"
+          xmlns="http://www.w3.org/2000/svg"
+          p-id="1251"
+          width="20"
+          height="20"
+          style="transform: translateY(3px)"
+        >
+          <path
+            d="M636.288 689.024l-45.184 33.216c0 0-45.248 21.056-99.52-27.136-54.272-48.256-150.656-158.464-177.792-221.632C286.656 410.176 340.928 383.04 340.928 383.04S411.776 324.288 414.72 313.728c3.008-10.56 42.24-52.736-42.176-165.76C288.192 34.944 268.608 57.536 223.36 92.224 178.176 126.848 114.752 194.688 101.312 273.088 87.744 351.424 78.72 447.872 193.28 619.712s287.808 302.912 384.256 324.032c96.576 21.056 164.352 34.624 260.672-43.712 96.512-78.4 113.152-85.888 69.376-141.632-43.648-55.808-139.84-122.688-154.24-125.44-14.336-2.88-35.008-7.68-67.456 16.32C653.376 673.28 636.288 689.024 636.288 689.024z"
+            p-id="1252"
+            fill="#1592ff"
+          ></path>
+        </svg>
+        063-940-2837</a
+      >
+    </p>
+    <el-button class="apply" type="primary" @click="apply">{{ $ft("free") }}</el-button>
+  </div>
+</template>
+
+<script>
+export default {
+  data() {
+    return {};
+  },
+  methods: {
+    apply() {
+      const form = document.querySelector(".form-info");
+      form.scrollIntoView({ behavior: "smooth", block: "start", inline: "nearest" });
+
+      // 免费试用埋点
+      this.$ga.event("FHRTopNavi", "click", "FreeTrial01", 7);
+    }
+  }
+};
+</script>
+
+<style lang="less" scoped>
+.phone {
+  font-size: 20px;
+  line-height: 42px;
+  > a {
+    color: #1592ff;
+  }
+}
+.denglu-apply {
+  display: flex;
+}
+button {
+  padding: 6px 16px;
+}
+.apply {
+  background-color: #fff;
+  color: #1592ff;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  line-height: 24px;
+  margin-left: 20px;
+}
+</style>

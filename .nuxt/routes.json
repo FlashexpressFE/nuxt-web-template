@@ -1,0 +1,128 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/404.vue",
+    "chunkName": "pages/404",
+    "_name": "_5878edd5"
+  },
+  {
+    "name": "approval-management",
+    "path": "/approval-management",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/approval-management.vue",
+    "chunkName": "pages/approval-management",
+    "_name": "_a19fe3ac"
+  },
+  {
+    "name": "company-organization-structure-management",
+    "path": "/company-organization-structure-management",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/company-organization-structure-management.vue",
+    "chunkName": "pages/company-organization-structure-management",
+    "_name": "_b2fd6d78"
+  },
+  {
+    "name": "news-management-for-hr-software",
+    "path": "/news-management-for-hr-software",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/news-management-for-hr-software.vue",
+    "chunkName": "pages/news-management-for-hr-software",
+    "_name": "_0dc695d3"
+  },
+  {
+    "name": "promotion",
+    "path": "/promotion",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/promotion.vue",
+    "chunkName": "pages/promotion",
+    "_name": "_8cd7c800"
+  },
+  {
+    "name": "smart-payroll-salary-slip-management-online",
+    "path": "/smart-payroll-salary-slip-management-online",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/smart-payroll-salary-slip-management-online.vue",
+    "chunkName": "pages/smart-payroll-salary-slip-management-online",
+    "_name": "_7f30b7a4"
+  },
+  {
+    "name": "time-attendance",
+    "path": "/time-attendance",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/time-attendance.vue",
+    "chunkName": "pages/time-attendance",
+    "_name": "_575fae86"
+  },
+  {
+    "name": "toline",
+    "path": "/toline",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/toline.vue",
+    "chunkName": "pages/toline",
+    "_name": "_0b8a63e2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_41aa832f"
+  },
+  {
+    "name": "lang",
+    "path": "/:lang",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/_lang/index.vue",
+    "chunkName": "pages/_lang/index",
+    "_name": "_767462a6"
+  },
+  {
+    "name": "lang-404",
+    "path": "/:lang/404",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/_lang/404.vue",
+    "chunkName": "pages/_lang/404",
+    "_name": "_ff65fe5a"
+  },
+  {
+    "name": "lang-approval-management",
+    "path": "/:lang/approval-management",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/_lang/approval-management.vue",
+    "chunkName": "pages/_lang/approval-management",
+    "_name": "_adab35b0"
+  },
+  {
+    "name": "lang-company-organization-structure-management",
+    "path": "/:lang/company-organization-structure-management",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/_lang/company-organization-structure-management.vue",
+    "chunkName": "pages/_lang/company-organization-structure-management",
+    "_name": "_60a5a47c"
+  },
+  {
+    "name": "lang-news-management-for-hr-software",
+    "path": "/:lang/news-management-for-hr-software",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/_lang/news-management-for-hr-software.vue",
+    "chunkName": "pages/_lang/news-management-for-hr-software",
+    "_name": "_ea1f405e"
+  },
+  {
+    "name": "lang-promotion",
+    "path": "/:lang/promotion",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/_lang/promotion.vue",
+    "chunkName": "pages/_lang/promotion",
+    "_name": "_5f01787e"
+  },
+  {
+    "name": "lang-smart-payroll-salary-slip-management-online",
+    "path": "/:lang/smart-payroll-salary-slip-management-online",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/_lang/smart-payroll-salary-slip-management-online.vue",
+    "chunkName": "pages/_lang/smart-payroll-salary-slip-management-online",
+    "_name": "_0cf574a2"
+  },
+  {
+    "name": "lang-time-attendance",
+    "path": "/:lang/time-attendance",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/_lang/time-attendance.vue",
+    "chunkName": "pages/_lang/time-attendance",
+    "_name": "_3da93484"
+  },
+  {
+    "name": "lang-toline",
+    "path": "/:lang/toline",
+    "component": "/Users/fangdeng/workspace/github/FlashExpress/nuxt-web-template/pages/_lang/toline.vue",
+    "chunkName": "pages/_lang/toline",
+    "_name": "_284eefb8"
+  }
+]

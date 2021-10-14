@@ -1,0 +1,65 @@
+{
+  "ShareThis": {
+    "description": "Auto imported from components/ShareThis.vue"
+  },
+  "ApplyButton": {
+    "description": "Auto imported from components/apply-button.vue"
+  },
+  "BlogBanner": {
+    "description": "Auto imported from components/blog-banner.vue"
+  },
+  "BlogDetail": {
+    "description": "Auto imported from components/blog-detail.vue"
+  },
+  "BlogInfo": {
+    "description": "Auto imported from components/blog-info.vue"
+  },
+  "BlogList": {
+    "description": "Auto imported from components/blog-list.vue"
+  },
+  "BlogSelect": {
+    "description": "Auto imported from components/blog-select.vue"
+  },
+  "FlashBottom": {
+    "description": "Auto imported from components/flash-bottom.vue"
+  },
+  "FlashHeader": {
+    "description": "Auto imported from components/flash-header.vue"
+  },
+  "FormInfo": {
+    "description": "Auto imported from components/form-info.vue"
+  },
+  "FormSubmit": {
+    "description": "Auto imported from components/form-submit.vue"
+  },
+  "FunctionInfo": {
+    "description": "Auto imported from components/function-info.vue"
+  },
+  "Icon": {
+    "description": "Auto imported from components/icon.vue"
+  },
+  "LoginApplyButton": {
+    "description": "Auto imported from components/login-apply-button.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/logo.vue"
+  },
+  "StructureInfo": {
+    "description": "Auto imported from components/structure-info.vue"
+  },
+  "SwitchLanguage": {
+    "description": "Auto imported from components/switch-language.vue"
+  },
+  "Titles": {
+    "description": "Auto imported from components/titles.vue"
+  },
+  "TopShowMain": {
+    "description": "Auto imported from components/top-show-main.vue"
+  },
+  "TopShow": {
+    "description": "Auto imported from components/top-show.vue"
+  },
+  "WordInfo": {
+    "description": "Auto imported from components/word-info.vue"
+  }
+}
