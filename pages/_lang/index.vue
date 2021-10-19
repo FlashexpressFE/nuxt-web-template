@@ -53,8 +53,8 @@ import { functionInfoList, effectInfoList, salaryInfoList, swiperlist, imgswipe 
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "Corporation",
-  url: "https://www.flash-hr.com",
-  logo: "https://www.flash-hr.com/img/logo.png",
+  url: "XXXXXX",
+  logo: "XXXXXX/img/logo.png",
   contactPoint: [
     {
       "@type": "ContactPoint",
@@ -65,7 +65,7 @@ const structuredData = {
   ],
   sameAs: ["https://www.facebook.com/flashhrofficial/"],
   name: "Flash HR",
-  image: "https://www.flash-hr.com/img/logo.png",
+  image: "XXXXXX/img/logo.png",
   description:
     "Flash HR เป็นโปรแกรมHRที่แน้นการบริหารจัดการบุคลากรเป็นหลัก  ให้บริการฟังกชัน การจัดการข้อมูลลงเวลา การคำนวนเงินเดือน โครงสร้างองค์กร การจัดการการอนุมัติ การสแกนใบหน้าลงชื่อเข้าออกงาน การแจ้งเตือนต่างๆ"
 };

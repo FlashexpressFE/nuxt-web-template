@@ -50,7 +50,7 @@ export default {
         }
       ],
       __dangerouslyDisableSanitizers: ["script"],
-      script: structuredData("https://www.flash-hr.com/news-management-for-hr-software", this.$ft("msg"))
+      script: structuredData("xxxxxx/news-management-for-hr-software", this.$ft("msg"))
     };
   },
   data() {

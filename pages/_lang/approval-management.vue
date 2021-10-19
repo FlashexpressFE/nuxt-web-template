@@ -1,8 +1,8 @@
 <!--
  * @Author: your name
  * @Date: 2021-08-26 20:23:27
- * @LastEditTime: 2021-09-14 15:22:23
- * @LastEditors: your name
+ * @LastEditTime: 2021-10-19 20:02:22
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /website-template/pages/_lang/approval-management.vue
 -->
@@ -57,7 +57,7 @@ export default {
         { hid: "description", name: "description", content: this.$ft("sp_2") }
       ],
       __dangerouslyDisableSanitizers: ["script"],
-      script: structuredData("https://www.flash-hr.com/approval-management", this.$ft("20"))
+      script: structuredData("XXXXX/approval-management", this.$ft("20"))
     };
   },
   data() {

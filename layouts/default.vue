@@ -22,17 +22,17 @@ export default {
         {
           rel: "alternate",
           hreflang: "th",
-          href: "https://www.flash-hr.com" + (this.href === "/" ? "" : this.href)
+          href: "XXXXXX" + (this.href === "/" ? "" : this.href)
         },
         {
           rel: "alternate",
           hreflang: "en",
-          href: "https://www.flash-hr.com/en" + (this.href === "/" ? "" : this.href)
+          href: "XXXXXX/en" + (this.href === "/" ? "" : this.href)
         },
         {
           rel: "alternate",
           hreflang: "zh",
-          href: "https://www.flash-hr.com/zh" + (this.href === "/" ? "" : this.href)
+          href: "XXXXXX/zh" + (this.href === "/" ? "" : this.href)
         }
       ],
       meta: [
@@ -43,7 +43,7 @@ export default {
         { name: "og:description", content: this.$ft("s_2") },
         { name: "og:title", content: this.$ft("6") },
         { name: "og:image", content: require("../assets/images/Logo.png") },
-        { name: "og:url", content: "https://www.flash-hr.com" }
+        { name: "og:url", content: "XXXXXX" }
       ]
     };
   },

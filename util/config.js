@@ -429,7 +429,7 @@ export const structuredData = (id, name) => [
       "@context": "http://schema.org",
       "@type": "BreadcrumbList",
       itemListElement: [
-        { "@type": "ListItem", position: 1, item: { "@id": "https://www.flash-hr.com", name: "Flash HR" } },
+        { "@type": "ListItem", position: 1, item: { "@id": "xxxxxx", name: "Flash HR" } },
         { "@type": "ListItem", position: 2, item: { "@id": id, name } }
       ]
     },
@@ -445,7 +445,7 @@ export const structuredData1 = query => [
         {
           "@type": "ListItem",
           position: 1,
-          item: { "@id": `https://www.flash-hr.com${query.lang ? "/" + query.lang : ""}`, name: "Flash HR" }
+          item: { "@id": `xxxxxx${query.lang ? "/" + query.lang : ""}`, name: "Flash HR" }
         },
         { "@type": "ListItem", position: 2, item: { "@id": query.id, name: query.name } }
       ]
@@ -462,7 +462,7 @@ export const structuredData2 = query => [
         {
           "@type": "ListItem",
           position: 1,
-          item: { "@id": `https://www.flash-hr.com${query.lang ? "/" + query.lang : ""}`, name: "Flash HR" }
+          item: { "@id": `xxxxxx${query.lang ? "/" + query.lang : ""}`, name: "Flash HR" }
         },
         { "@type": "ListItem", position: 2, item: { "@id": query.id, name: query.name } },
         { "@type": "ListItem", position: 3, item: { "@id": query.id1, name: query.name1 } }

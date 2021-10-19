@@ -46,7 +46,7 @@ export default {
         { hid: "description", name: "description", content: this.$ft("x_2") }
       ],
       __dangerouslyDisableSanitizers: ["script"],
-      script: structuredData("https://www.flash-hr.com/smart-payroll-salary-slip-management-online", this.$ft("22"))
+      script: structuredData("xxxxxx/smart-payroll-salary-slip-management-online", this.$ft("22"))
     };
   },
   data() {

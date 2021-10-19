@@ -23,7 +23,7 @@ export const actions = {
   async nuxtServerInit({ state, commit }, { $axios }) {
     // i18n地址资源 
     const res = await $axios.get(
-      `https://ard-static.flashexpress.com/new-flash-hr-website/lang/${state.lang.value}.json?${new Date().getTime()}`
+      `xxxxxx/lang/${state.lang.value}.json?${new Date().getTime()}`
     );
     if (res.response?.status) {
       await commit("set_langPack", (await import(`../local/${state.lang.value}.json`)).default);

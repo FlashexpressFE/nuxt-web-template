@@ -45,7 +45,7 @@ export default {
         { hid: "description", name: "description", content: this.$ft("z_2") }
       ],
       __dangerouslyDisableSanitizers: ["script"],
-      script: structuredData("https://www.flash-hr.com/company-organization-structure-management", this.$ft("16"))
+      script: structuredData("xxxxxxx/company-organization-structure-management", this.$ft("16"))
     };
   },
   data() {
